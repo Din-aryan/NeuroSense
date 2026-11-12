@@ -91,7 +91,7 @@ project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AyushMishra504/NeuroSense.git
+git clone https://github.com/Din-aryan/NeuroSense.git
 cd NeuroSense
 ```
 
