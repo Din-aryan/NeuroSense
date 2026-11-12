@@ -178,15 +178,17 @@ Voice Likelihood: 64%
 
 ---
 
-## 📜 License
+## Team
 
-This project is intended for **academic and research purposes only**.
+This project was built as a team by:
+
+| Name | GitHub |
+|---|---|
+| Ayush Mishra | [@AyushMishra504](https://github.com/AyushMishra504) |
+| Dinesh Aryan M | [@Din-aryan](https://github.com/Din-aryan) |
 
 ---
 
+## 📜 License
 
-* Shorten this for **GitHub landing page**
-* Add **installation badges**
-* Write a **research-paper-style abstract**
-* Convert it into a **Flask app README**
-
+This project is intended for **academic and research purposes only**.
