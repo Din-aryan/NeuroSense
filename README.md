@@ -178,13 +178,12 @@ Voice Likelihood: 64%
 
 ---
 
-## Team
+## Maintainer
 
-This project was built as a team by:
+This repository is maintained by:
 
 | Name | GitHub |
 |---|---|
-| Ayush Mishra | [@AyushMishra504](https://github.com/AyushMishra504) |
 | Dinesh Aryan M | [@Din-aryan](https://github.com/Din-aryan) |
 
 ---
